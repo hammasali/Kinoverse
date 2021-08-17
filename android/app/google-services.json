@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "231342691747",
+    "project_id": "kinoverse-3cd95",
+    "storage_bucket": "kinoverse-3cd95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231342691747:android:1372b614906862c1c0b616",
+        "android_client_info": {
+          "package_name": "com.kinoverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231342691747-p6pgqhqpk66cb2uci5d9uudlulrvakrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPJnbFn9Ukg1TfIopQJV4-yWepLaWYRgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231342691747-p6pgqhqpk66cb2uci5d9uudlulrvakrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231342691747-21lh68v39p3m4crfak2njgk24lhh7ttt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kinoverse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231342691747:android:3cfa20bfa3c6be21c0b616",
+        "android_client_info": {
+          "package_name": "com.kinoverse.filmmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231342691747-h1eb74b9ju35l7q9u9771dtdfad4bh1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kinoverse.filmmaker",
+            "certificate_hash": "9c66f136353407e3f2ea5ece1a3dd63fa0b8bc74"
+          }
+        },
+        {
+          "client_id": "231342691747-p6pgqhqpk66cb2uci5d9uudlulrvakrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPJnbFn9Ukg1TfIopQJV4-yWepLaWYRgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231342691747-p6pgqhqpk66cb2uci5d9uudlulrvakrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231342691747-21lh68v39p3m4crfak2njgk24lhh7ttt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kinoverse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
